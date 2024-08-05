@@ -13,6 +13,9 @@ EcoLife es una app móvil que busca educar y concienciar a los usuarios sobre pr
 - Un sistema de recompensas y desafíos para motivar a los usuarios a adoptar prácticas sostenibles
 - Una comunidad de usuarios que pueden compartir experiencias y consejos
 - Un directorio de productos y servicios sostenibles
+
+
+
 ![alt text](image-7.png)
 
 
@@ -62,7 +65,9 @@ EcoLife es una app móvil que busca educar y concienciar a los usuarios sobre pr
 
 ## PATRON DE ARQUITECTURA🤵‍♂️📱
 
-**PATRON DE ARQUITECTURA MICROSERVICIOS**![alt text](image-1.png)
+**PATRON DE ARQUITECTURA MICROSERVICIOS**
+
+![alt text](image-1.png)
 
 1. **Independencia** : Cada microservicio es una unidad independiente que puede ser desarrollada, desplegada y escalada de manera autónoma.
 
